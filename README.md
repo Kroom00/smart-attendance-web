@@ -4,7 +4,8 @@
 The Student Attendance Tracking System is a web-based application designed to manage student attendance records. The system allows teachers to mark attendance for their courses, view attendance history, and generate reports. Students can log in to view their attendance records.
 
 ## Flow Chart
-[Flow Chart](https://www.lucidchart.com/pages/)
+![diagram](https://github.com/Kroom00/smart-attendance-web/assets/88386673/598f29bd-e557-4628-95bc-c7d24274a3d8)
+
 
 ## Setup
 1. Clone the repository:
@@ -23,6 +24,7 @@ The Student Attendance Tracking System is a web-based application designed to ma
     ```
 4. Start the server:
     ```bash
+    npm install
     npm run start
     ```
 
@@ -52,18 +54,3 @@ The Student Attendance Tracking System is a web-based application designed to ma
 - Integrate with school management systems
 - Allow parents to view student attendance
 
-## Resources
-- [Express.js Documentation](https://expressjs.com/)
-- [MongoDB Documentation](https://docs.mongodb.com/)
-- [EJS Documentation](https://ejs.co/)
-
-## Team Members
-- **Abdulkarim Alharthi** - 441017066
-- **Mshari almouslfeh 2** - 441013628
-- **Fahad Almutairi  3** - 440015421
-
-## Deliverables
-- A working REST API, built by you that runs on a local server.
-- The URL of the GitHub repository for your app: [GitHub Repository](https://github.com/your-username/student-attendance-tracking-system)
-- The URL of the slides for your presentation: [Presentation Slides](https://docs.google.com/presentation/d/your-presentation-id)
-- Adequate and complete documentation in the README.md file.
