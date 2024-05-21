@@ -19,12 +19,11 @@ The Student Attendance Tracking System is a web-based application designed to ma
 3. Setup environment variables in a `.env` file:
     ```env
     PORT=4000
-    MONGO_URI=<your-mongo-uri>
-    SESSION_SECRET=<your-session-secret>
+    MONGO_URI=<mongodb://localhost:27017/School>
     ```
 4. Start the server:
     ```bash
-    npm start
+    npm run start
     ```
 
 ## Technologies Used
@@ -59,9 +58,9 @@ The Student Attendance Tracking System is a web-based application designed to ma
 - [EJS Documentation](https://ejs.co/)
 
 ## Team Members
-- **Abdulkarim Alharthi** - Project Lead, Backend Developer
-- **Team Member 2** - Frontend Developer
-- **Team Member 3** - Database Administrator
+- **Abdulkarim Alharthi** - 441017066
+- **Mshari almouslfeh 2** - 441013628
+- **Fahad Almutairi  3** - 440015421
 
 ## Deliverables
 - A working REST API, built by you that runs on a local server.
