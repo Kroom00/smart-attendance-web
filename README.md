@@ -10,7 +10,7 @@ The Student Attendance Tracking System is a web-based application designed to ma
 ## Setup
 1. Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone <[repository-url](https://github.com/Kroom00/smart-attendance-web.git)>
     cd project-directory
     ```
 2. Install dependencies:
