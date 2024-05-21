@@ -1,7 +1,7 @@
 # Student Attendance Tracking System
 
 ## Overview
-The Student Attendance Tracking System is a web-based application designed to manage student attendance records. The system allows teachers to mark attendance for their courses, view attendance history, and generate reports. Students can log in to view their attendance records.
+The Student Attendance Tracking System is a web-based application designed to manage student attendance records. The system allows teachers to mark attendance for their courses, view attendance history. Students can log in to view their attendance records.
 
 ## Flow Chart
 ![diagram](https://github.com/Kroom00/smart-attendance-web/assets/88386673/598f29bd-e557-4628-95bc-c7d24274a3d8)
